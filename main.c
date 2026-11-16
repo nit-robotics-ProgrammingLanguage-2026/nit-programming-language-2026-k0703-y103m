@@ -23,5 +23,6 @@ printf("NG\n");
 } else {
 printf("%d\n", fibo(n));
 }
+ 
 return 0;
 }
